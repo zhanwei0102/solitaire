@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="title_activity_settings">Ustawienia</string>
+
+    <string name="settings_background_color">Kolor tła</string>
+    <string name="settings_background_color_custom">Własny</string>
+    <string name="settings_hide_status_bar">Ukryj pasek stanu</string>
+    <string name="settings_left_handed_mode">Tryb dla leworęcznych</string>
+    <string name="settings_left_handed_mode_description">Odwraca pozycje kart i stosów do lewej strony</string>
+    <string name="settings_back_press">Potwierdź zamykanie gry</string>
+    <string name="settings_back_press_description">Naciśnij przycisk wstecz dwukrotnie, aby wyjść z gry</string>
+    <string name="settings_orientation">Orientacja ekranu</string>
+    <string name="settings_cards">Karty</string>
+    <string name="settings_classic">Klasyczne</string>
+    <string name="settings_simple">Proste</string>
+    <string name="settings_cards_back">Koszulki kart</string>
+    <string name="settings_modern">Nowoczesne</string>
+    <string name="settings_abstract">Abstrakcyjne</string>
+    <string name="settings_basic">Zwykłe</string>
+
+    <string name="settings_background">Koszulka numer</string>
+    <string name="settings_customization">Wygląd</string>
+    <string name="settings_customization_description">Dostosuj karty i tło</string>
+    <string name="settings_other">Ogólne</string>
+    <string name="settings_other_description">Dostosuj wszystkie inne opcje</string>
+    <string name="settings_games">Gry</string>
+    <string name="settings_games_description">Dostosuj opcje wariantów gier</string>
+    <string name="settings_spider_difficulty">Liczba kolorów kart</string>
+    <string name="settings_klondike_draw">Po ile kart rozdawać</string>
+    <string name="settings_canfield_draw">Po ile kart rozdawać</string>
+    <string name="settings_show_main_menu">Rozpocznij w menu głównym</string>
+    <string name="settings_show_main_menu_description">Nie przechodź do ostatnio otwartej gry przy starcie</string>
+    <string name="settings_golf_easy">Cykliczne ruchy (łatwiejsze)</string>
+    <string name="settings_golf_easy_description">Zezwól kłaść asy na króli i odwrotnie</string>
+    <string name="settings_restart_klondike">Aby zastosować zmiany, rozpocznij nową grę Klondkie</string>
+    <string name="settings_restart_yukon">Aby zastosować zmiany, rozpocznij nową grę Yukon</string>
+    <string name="settings_restart_canfield">Aby zastosować zmiany, rozpocznij nową grę Canfield</string>
+    <string name="settings_restart_spider">Aby zastosować zmiany, rozpocznij nową grę Pająk</string>
+    <string name="settings_restart_fortyeight">Aby zastosować zmiany, rozpocznij nową grę Czterdzieści&amp;Osiem</string>
+    <string name="settings_menu">Menu główne</string>
+    <string name="settings_menu_description">Zmień liczbę kolumn, pokaż i ukryj gry</string>
+    <string name="settings_pyramid_difficulty">Trudność</string>
+    <string name="settings_menu_columns">Liczba kolumn</string>
+    <string name="settings_menu_games">Pokaż i ukryj gry</string>
+    <string name="settings_menu_games_description">Wybierz które gry mają być widoczne w menu</string>
+    <string name="settings_about_description">Pokaż informacje o grze takie jak licencja i lista zmian</string>
+    <string name="settings_show_manual_in_menu">Strona podręcznika w menu głównym</string>
+    <string name="settings_show_manual_in_menu_description">Pokaż przycisk otwierający stronę dotyczącą gry w podręczniku</string>
+    <string name="settings_change_language">Zmień język</string>
+
+    <string name="settings_forty_eight_limted_redeals">Limituj liczbę ponownych rozdań</string>
+    <string name="settings_forty_eight_limted_redeals_text">Ponowne rozdanie jest dozwolone tylko jeden raz podczas gry, odznacz aby wyłączyć</string>
+    <string name="settings_pyramid_limted_redeals">Limituj liczbę ponownych rozdań</string>
+    <string name="settings_pyramid_limted_redeals_text">Ponowne rozdanie jest dozwolone tylko dwa razy podczas gry, odznacz aby wyłączyć</string>
+
+    <string name="settings_icon_theme">Temat ikon</string>
+    <string name="settings_menu_bar_position">Pozycja paska menu</string>
+    <string name="settings_menu_bar_position_top">Góra</string>
+    <string name="settings_menu_bar_position_bottom">Dół</string>
+    <string name="settings_menu_bar_position_left">Lewo</string>
+    <string name="settings_menu_bar_position_right">Prawo</string>
+
+    <string name="settings_yukon_rules">Kładź karty na…</string>
+    <string name="settings_4_color_mode_title">4 kolory kart</string>
+    <string name="settings_4_color_mode_text">Pokoloruj trefle na zielono i karo na niebiesko</string>
+
+    <string name="settings_oxygen_dark">Oxygen Ciemny</string>
+    <string name="settings_oxygen_light">Oxygen Jasny</string>
+    <string name="settings_poker">Poker</string>
+
+    <string name="settings_additional_movements">Dodatkowe ruchy kart</string>
+    <string name="settings_additional_movements_description">Włącza lub wyłącza podwójne stuknięcia i inne ruchy</string>
+
+    <string name="settings_double_tap">Podwójne stuknięcie</string>
+    <string name="settings_double_tap_enable">Włącz ruchy przy podwójnym stuknięciu</string>
+    <string name="settings_double_tap_enable_text">Podwójnie stuknij w kartę, aby przenieść ją na najbliższy możliwy stos</string>
+    <string name="settings_double_tap_all_cards">Przenoś wszystkie możliwe karty</string>
+    <string name="settings_double_tap_all_cards_text">Przenoś jak najwięcej kart ze stosu, nie tylko dotykaną kartę</string>
+
+    <string name="settings_tap_to_select">Wybierz przez stuknięcie</string>
+    <string name="settings_tap_to_select_enable">Włącz możliwość wyboru karty poprzez stuknięcie</string>
+    <string name="settings_tap_to_select_enable_text">Stuknij w kartę, aby ją wybrać, a następnie stuknij w stos docelowy, aby ją tam przenieść</string>
+
+    <string name="settings_single_tap">Pojedyncze stuknięcie</string>
+    <string name="settings_single_tap_enable">Włącz ruchy przy pojedynczym stuknięciu</string>
+    <string name="settings_single_tap_enable_text">Tylko w grach Golf i TrzyWieże: stuknij pojedynczo w kartę, aby przenieść ją na stos odrzutów</string>
+    
+</resources>

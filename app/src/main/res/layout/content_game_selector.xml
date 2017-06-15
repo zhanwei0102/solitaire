@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollViewGameChooser"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentTop="true"
+    tools:context="de.tobiasbielefeld.solitaire.ui.GameSelector">
+
+
+    <TableLayout
+        android:id="@+id/tableLayoutGameChooser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:id="@+id/buttonStartKlondike"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:longClickable="true"/>
+
+            <ImageView
+                android:id="@+id/buttonStartFreecell"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:longClickable="true"/>
+
+            <ImageView
+                android:id="@+id/buttonStartYukon"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:longClickable="true"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/buttonStartSpider"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:longClickable="true"/>
+
+            <ImageView
+                android:id="@+id/buttonStartSimpleSimon"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:longClickable="true"/>
+
+            <ImageView
+                android:id="@+id/buttonStartGolf"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:longClickable="true"
+                android:scaleType="fitCenter" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/buttonStartPyramid"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:longClickable="true"/>
+
+            <ImageView
+                android:id="@+id/buttonStartTriPeaks"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:longClickable="true"/>
+
+            <ImageView
+                android:id="@+id/buttonStartFortyEight"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:longClickable="true"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/buttonStartMod3"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:longClickable="true"/>
+
+            <ImageView
+                android:id="@+id/buttonStartGypsy"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:longClickable="true"/>
+
+            <ImageView
+                android:id="@+id/buttonStartAcesUp"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:longClickable="true"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/buttonStartCanfield"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:longClickable="true"/>
+
+            <ImageView
+                android:id="@+id/buttonStartGrandfathersClock"
+                android:padding="@dimen/game_selector_images_padding"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:longClickable="true"/>
+
+
+        </TableRow>
+
+    </TableLayout>
+
+
+</ScrollView>

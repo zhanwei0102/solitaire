@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_version">Wersja</string>
+
+    <string name="portrait">Pionowo</string>
+    <string name="landscape">Poziomo</string>
+
+    <string name="settings">Ustawienia</string>
+    <string name="game_manual">Podręcznik</string>
+    <string name="game_score">Punkty</string>
+    <string name="game_time">Czas</string>
+    <string name="game_cancel">Anuluj</string>
+    <string name="game_confirm">Potwierdź</string>
+    <string name="game_auto_complete_text">Autouzupełnianie</string>
+    <string name="game_press_again">Naciśnij ponownie aby wyjść</string>
+    <string name="game_load_error">Wczytywanie danych nie powiodło się, zaczynam nową grę…</string>
+    <string name="game_close">Zamknij grę</string>
+    <string name="game_main_menu">Menu główne</string>
+
+
+    <!-- Menu -->
+    <string name="menu_statistics">Punkty</string>
+    <string name="menu_undo">Cofnij</string>
+    <string name="menu_hint">Wskazówka</string>
+    <string name="menu_main_menu">Menu</string>
+    <string name="menu_settings">Ustawienia</string>
+
+    <!-- game names -->
+    <string name="games_klondike">Klondike</string>
+    <string name="games_freecell">FreeCell</string>
+    <string name="games_yukon">Jukon</string>
+    <string name="games_spider">Pająk</string>
+    <string name="games_simplesimon">SimpleSimon</string>
+    <string name="games_golf">Golf</string>
+    <string name="games_pyramid">Piramida</string>
+    <string name="games_tripeaks">TrzyWieże</string>
+    <string name="games_fortyeight">Czterdzieści&amp;Osiem</string>
+    <string name="games_acesup">CzteryAsy</string>
+    <string name="games_gypsy">Cygan</string>
+    <string name="games_mod3">Mod3</string>
+    <string name="games_canfield">Canfield</string>
+    <string name="games_grandfathersClock">ZegarekDziadka</string>
+    
+    <!-- colors -->
+    <string name="blue">Niebieski</string>
+    <string name="green">Zielony</string>
+    <string name="red">Czerwony</string>
+    <string name="yellow">Żółty</string>
+    <string name="orange">Pomarańczowy</string>
+    <string name="purple">Purpurowy</string>
+    
+</resources>

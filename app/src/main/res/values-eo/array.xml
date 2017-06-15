@@ -1,0 +1,69 @@
+<resources>
+
+    <string-array name="restart_menu">
+        <item>Komenci novan ludon</item>
+        <item>Disdoni kartojn ree</item>
+        <item>Reveni al ĉefmenuo</item>
+    </string-array>
+
+    <string-array name="pref_orientation_titles">
+        <item>Laŭ sistema agordo</item>
+        <item>Vertikala</item>
+        <item>Horizontala</item>
+        <item>Horizontala inversa</item>
+    </string-array>
+
+    <string-array name="pref_spider_difficulty_titles">
+        <item>1 (facila)</item>
+        <item>2 (meza)</item>
+        <item>4 (malfacila)</item>
+    </string-array>
+
+    <string-array name="pref_klondike_draw_titles">
+        <item>Depreni 1</item>
+        <item>Depreni 3</item>
+    </string-array>
+
+    <string-array name="pref_canfield_draw_titles">
+        <item>Depreni 1</item>
+        <item>Depreni 3</item>
+    </string-array>
+
+    <string-array name="pref_pyramid_difficulty_titles">
+        <item>Facila: ludo estas venkita kiam tablamaso estas malplena</item>
+        <item>Malfacila: ludo estas venkita kiam tablamaso kaj stako estas malplenaj</item>
+    </string-array>
+
+    <string-array name="pref_language_values">
+        <item>default</item>
+        <item>en</item>
+        <item>eo</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>ja</item>
+        <item>pl</item>
+    </string-array>
+
+    <string-array name="pref_language_titles">
+        <item>Implicita</item>
+        <item>Angla</item>
+        <item>Esperanto</item>
+        <item>Suoma</item>
+        <item>Franca</item>
+        <item>Germana</item>
+        <item>Japana</item>
+        <item>Pola</item>
+    </string-array>
+
+    <string-array name="pref_icon_theme_titles">
+        <item>Material</item>
+        <item>Malnova etoso</item>
+    </string-array>
+
+    <string-array name="pref_yukon_rules_titles">
+        <item>Diferencaj koloroj (implicite)</item>
+        <item>Sama emblemo (rusa paciencoludo)</item>
+    </string-array>
+
+</resources>

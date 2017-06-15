@@ -1,0 +1,70 @@
+<resources>
+
+    <string-array name="restart_menu">
+        <item>新しいゲームを開始する</item>
+        <item>カードをもう一度配る</item>
+        <item>メインメニューに戻る</item>
+    </string-array>
+
+    <string-array name="pref_orientation_titles">
+        <item>システム設定に従う</item>
+        <item>縦向き</item>
+        <item>横向き</item>
+        <item>横向き上下反転</item>
+    </string-array>
+
+    <string-array name="pref_spider_difficulty_titles">
+        <item>1 (簡単)</item>
+        <item>2 (中)</item>
+        <item>4 (難しい)</item>
+    </string-array>
+
+    <string-array name="pref_klondike_draw_titles">
+        <item>ドロー 1</item>
+        <item>ドロー 3</item>
+    </string-array>
+
+    <string-array name="pref_canfield_draw_titles">
+        <item>ドロー 1</item>
+        <item>ドロー 3</item>
+    </string-array>
+
+    <string-array name="pref_pyramid_difficulty_titles">
+        <item>簡単: 場札が空のときにゲームに勝ち</item>
+        <item>難しい: 場札と山札が空のときに勝ち</item>
+    </string-array>
+
+    <string-array name="pref_language_titles">
+        <item>デフォルト言語</item>
+        <item>英語</item>
+        <item>ドイツ語</item>
+        <item>日本語</item>
+        <item>エスペラント</item>
+        <item>ポーランド語</item>
+        <item>フランス語</item>
+        <item>フィンランド語</item>
+    </string-array>
+
+    <string-array name="pref_language_values">
+        <item>default</item>
+        <item>en</item>
+        <item>de</item>
+        <item>ja</item>
+        <item>eo</item>
+        <item>pl</item>
+        <item>fr</item>
+        <item>fi</item>
+    </string-array>
+
+    <!-- following are translated with an online translator -->
+    <string-array name="pref_icon_theme_titles">
+        <item>材料</item>
+        <item>古い</item>
+    </string-array>
+
+    <string-array name="pref_yukon_rules_titles">
+        <item>異なる色（デフォルト）</item>
+        <item>同じカードファミリー（ロシアソリティア）</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,129 @@
+<resources>
+
+    <string-array name="pref_orientation_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="pref_icon_theme_values" translatable="false">
+        <item>Material</item>
+        <item>Old</item>
+    </string-array>
+
+    <string-array name="pref_spider_difficulty_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="pref_klondike_draw_values" translatable="false">
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="pref_canfield_draw_values" translatable="false">
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="pref_menu_columns_list" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="pref_pyramid_difficulty_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="pref_yukon_rules_values" translatable="false">
+        <item>default</item>
+        <item>russian</item>
+    </string-array>
+
+    <string-array name="manual_side_menu_tablet" translatable="false">
+        <item>@string/manual_startpage</item>
+        <item>@string/manual_main_menu</item>
+        <item>@string/manual_ui</item>
+        <item>@string/manual_games</item>
+        <item>@string/manual_feedback</item>
+        <item>@string/manual_back_to_game</item>
+    </string-array>
+
+    <string-array name="restart_menu">
+        <item>Start new game</item>
+        <item>Give cards again</item>
+        <item>Return to main menu</item>
+    </string-array>
+
+    <string-array name="pref_orientation_titles">
+        <item>Follow system settings</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
+        <item>Landscape upside down</item>
+    </string-array>
+
+    <string-array name="pref_spider_difficulty_titles">
+        <item>1 (Easy)</item>
+        <item>2 (Medium)</item>
+        <item>4 (Hard)</item>
+    </string-array>
+
+    <string-array name="pref_klondike_draw_titles">
+        <item>Draw 1</item>
+        <item>Draw 3</item>
+    </string-array>
+
+    <string-array name="pref_canfield_draw_titles">
+        <item>Draw 1</item>
+        <item>Draw 3</item>
+    </string-array>
+
+    <string-array name="pref_pyramid_difficulty_titles">
+        <item>Easy: Game is won when tableau is empty</item>
+        <item>Hard: Game is won when tableau and stock are empty</item>
+    </string-array>
+
+    <string-array name="pref_language_titles">
+        <item>Default language</item>
+        <item>English</item>
+        <item>Esperanto</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Japanese</item>
+        <item>Polish</item>
+    </string-array>
+
+    <string-array name="pref_language_values">
+        <item>default</item>
+        <item>en</item>
+        <item>eo</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>ja</item>
+        <item>pl</item>
+    </string-array>
+
+    <string-array name="pref_icon_theme_titles">
+        <item>Material</item>
+        <item>Old theme</item>
+    </string-array>
+
+    <string-array name="pref_yukon_rules_titles">
+        <item>different colors (Default)</item>
+        <item>same suit (Russian Solitaire)</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,70 @@
+<resources>
+
+    <string-array name="restart_menu">
+        <item>Rozpocznij nową grę</item>
+        <item>Ponownie rozdaj karty</item>
+        <item>Powrót do menu głównego</item>
+    </string-array>
+
+    <string-array name="pref_orientation_titles">
+        <item>Ustawienia systemu</item>
+        <item>Pionowa</item>
+        <item>Pozioma</item>
+        <item>Pozioma do góry nogami</item>
+    </string-array>
+
+    <string-array name="pref_spider_difficulty_titles">
+        <item>1 (łatwy)</item>
+        <item>2 (średni)</item>
+        <item>4 (trudny)</item>
+    </string-array>
+
+    <string-array name="pref_klondike_draw_titles">
+        <item>Rozdaj 1</item>
+        <item>Rozdaj 3</item>
+    </string-array>
+
+    <string-array name="pref_canfield_draw_titles">
+        <item>Rozdaj 1</item>
+        <item>Rozdaj 3</item>
+    </string-array>
+
+    <string-array name="pref_pyramid_difficulty_titles">
+        <item>Łatwy: gra jest wygrana gdy pole gry jest puste</item>
+        <item>Trudny: gra jest wygrana gdy pole gry i stos są puste</item>
+    </string-array>
+
+    <string-array name="pref_language_titles">
+        <item>Domyślny</item>
+        <item>Angielski</item>
+        <item>Esperanto</item>
+        <item>Fiński</item>
+        <item>Francuski</item>
+        <item>Japoński</item>
+        <item>Niemiecki</item>
+        <item>Polski</item>
+    </string-array>
+
+    <string-array name="pref_language_values">
+        <item>default</item>
+        <item>en</item>
+        <item>eo</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>ja</item>
+        <item>de</item>
+        <item>pl</item>
+    </string-array>
+
+    <string-array name="pref_icon_theme_titles">
+        <item>Material</item>
+        <item>Stara skórka</item>
+    </string-array>
+
+    <!-- New values -->
+    <string-array name="pref_yukon_rules_titles">
+        <item>Różne kolory (domyślnie)</item>
+        <item>Ten sam kolor (ruski pasjans)</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="title_activity_settings">設定</string>
+
+    <string name="settings_background_color">背景の色</string>
+    <string name="settings_hide_status_bar">ステータスバーを隠す</string>
+    <string name="settings_left_handed_mode">左ききモード</string>
+    <string name="settings_left_handed_mode_description">カードと置き場の位置を左側に反転します</string>
+    <string name="settings_back_press">ゲームの終了を確認</string>
+    <string name="settings_back_press_description">戻るボタンを２回押すとゲームを終了します</string>
+    <string name="settings_orientation">画面の向き</string>
+    <string name="settings_cards">カード</string>
+    <string name="settings_classic">クラシック</string>
+    <string name="settings_simple">シンプル</string>
+    <string name="settings_cards_back">カードの背景</string>
+    <string name="settings_modern">モダン</string>
+    <string name="settings_abstract">無地</string>
+    <string name="settings_basic">基本</string>
+
+    <string name="settings_background">背景の番号</string>
+    <string name="settings_customization">外観</string>
+    <string name="settings_customization_description">カードと背景をカスタマイズします</string>
+    <string name="settings_other">全般</string>
+    <string name="settings_other_description">他のすべての設定を設定します</string>
+    <string name="settings_games">ゲーム</string>
+    <string name="settings_games_description">"ゲームのバリアントを設定します"</string>
+    <string name="settings_spider_difficulty">異なるカードファミリーの数</string>
+    <string name="settings_klondike_draw">描画するカードの数</string>
+    <string name="settings_canfield_draw">描画するカードの数</string>
+    <string name="settings_show_main_menu">メインメニューで開始</string>
+    <string name="settings_show_main_menu_description">開始時に、最後にプレイしたゲームに入りません</string>
+    <string name="settings_golf_easy">循環的な移動 （より簡単に）</string>
+    <string name="settings_golf_easy_description">エースをキングに置くことを許可する、またはその逆</string>
+    <string name="settings_restart_klondike">変更を適用するために新しいクロンダイクゲームを開始します</string>
+    <string name="settings_restart_canfield">変更を適用するために新しいカンフィールドゲームを開始します</string>
+    <string name="settings_restart_spider">  変更を適用するために新しいスパイダーゲームを開始します</string>
+    <string name="settings_restart_fortyeight">変更を適用するための新しいフォーティ&amp;エイトゲームを開始します</string>
+    <string name="settings_menu">メインメニュー</string>
+    <string name="settings_menu_description">列数の変更、ゲームの表示と非表示</string>
+    <string name="settings_pyramid_difficulty">難易度</string>
+    <string name="settings_menu_columns">列の数</string>
+    <string name="settings_menu_games">ゲームの表示と非表示</string>
+    <string name="settings_menu_games_description">メニューに表示されるゲームを選択します</string>
+    <string name="settings_about_description">ライセンスや変更履歴など、ゲームに関する情報を表示します</string>
+    <string name="settings_show_manual_in_menu">ゲームメニューにマニュアルページ</string>
+    <string name="settings_show_manual_in_menu_description">マニュアルに現在のゲームを開くためのアイテムを表示します</string>
+    <string name="settings_change_language">言語の変更</string>
+
+    <!-- following values are translated with an online translator -->
+    <string name="settings_forty_eight_limted_redeals">再取引の数を制限する</string>
+    <string name="settings_forty_eight_limted_redeals_text">再処理はゲームで1回だけ許可され、無効にするにはチェックを外す</string>
+    <string name="settings_pyramid_limted_redeals">再取引の数を制限する</string>
+    <string name="settings_pyramid_limted_redeals_text">再処理はゲームで2回だけ許可され、無効にするにはチェックを外す</string>
+
+    <string name="settings_icon_theme">アイコンのテーマ</string>
+    <string name="settings_menu_bar_position">メニューバーの位置</string>
+    <string name="settings_menu_bar_position_top">上</string>
+    <string name="settings_menu_bar_position_bottom">ボトム</string>
+    <string name="settings_menu_bar_position_left">左</string>
+    <string name="settings_menu_bar_position_right">右</string>
+
+    <string name="settings_restart_yukon">変更を適用するために新しいユーコンゲームを開始します</string>
+    <string name="settings_yukon_rules">カードを置く…</string>
+    <string name="settings_4_color_mode_title">4色デッキ</string>
+    <string name="settings_4_color_mode_text">青と緑、クラブ、ダイヤモンドの色を変更</string>
+    <string name="settings_oxygen_dark">酸素ダーク</string>
+    <string name="settings_oxygen_light">酸素ライト</string>
+    <string name="settings_poker">ポーカー</string>
+
+    <string name="settings_additional_movements">追加カードの動き</string>
+    <string name="settings_additional_movements_description">ダブルタップなどの移動方法を有効または無効にする</string>
+
+    <string name="settings_double_tap">ダブルタップ</string>
+    <string name="settings_double_tap_enable">ダブルタップ移動を有効にする</string>
+    <string name="settings_double_tap_enable_text">カードを2回押すと、次のスタックに移動します</string>
+    <string name="settings_double_tap_all_cards">すべての可能なカードを移動する</string>
+    <string name="settings_double_tap_all_cards_text">スタックからできるだけ多くのカードを移動します。 タッチされたカードだけでなく</string>
+
+    <string name="settings_tap_to_select">タップ・ツー・セレクト</string>
+    <string name="settings_tap_to_select_enable">タップを有効にしてムーブメントを選択する</string>
+    <string name="settings_tap_to_select_enable_text">カードをタップして選択し、目的のスタックをタップして移動します</string>
+
+    <string name="settings_single_tap">シングルタップ</string>
+    <string name="settings_single_tap_enable">シングルタップムーブを有効にする</string>
+    <string name="settings_single_tap_enable_text">ゴルフとトリックのみ：カードを一度押して、それを廃棄スタックに移動する</string>
+
+    <string name="settings_background_color_custom">カスタム</string>
+
+
+</resources>

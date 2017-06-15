@@ -1,0 +1,36 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <header
+        android:fragment="de.tobiasbielefeld.solitaire.ui.settings.Settings$CustomizationPreferenceFragment"
+        android:summary="@string/settings_customization_description"
+        android:title="@string/settings_customization" />
+
+    <header
+        android:fragment="de.tobiasbielefeld.solitaire.ui.settings.Settings$MenuPreferenceFragment"
+        android:summary="@string/settings_menu_description"
+        android:title="@string/settings_menu" />
+
+    <header
+        android:fragment="de.tobiasbielefeld.solitaire.ui.settings.Settings$GamesPreferenceFragment"
+        android:summary="@string/settings_games_description"
+        android:title="@string/settings_games" />
+
+    <header
+        android:fragment="de.tobiasbielefeld.solitaire.ui.settings.Settings$AdditionalMovementsPreferenceFragment"
+        android:summary="@string/settings_additional_movements_description"
+        android:title="@string/settings_additional_movements" />
+
+    <header
+        android:fragment="de.tobiasbielefeld.solitaire.ui.settings.Settings$OtherPreferenceFragment"
+        android:summary="@string/settings_other_description"
+        android:title="@string/settings_other" />
+
+    <!--
+    <header
+        android:summary="@string/settings_about_description"
+        android:title="@string/about_name">
+        <intent
+            android:targetClass="de.tobiasbielefeld.solitaire.ui.about.AboutActivity"
+            android:targetPackage="de.tobiasbielefeld.solitaire" />
+    </header> -->
+
+</preference-headers>
